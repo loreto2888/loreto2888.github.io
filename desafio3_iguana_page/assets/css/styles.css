@@ -1,0 +1,154 @@
+/* General Styles */
+/* Estilos generales para el cuerpo y el contenedor principal */
+body {
+    font-family: 'Raleway', sans-serif; /* Fuente principal */
+    background-color: #f4f4f4; /* Fondo gris claro */
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 0; /* Eliminar padding predeterminado */
+    display: flex; /* Usar Flexbox para centrar el contenido */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    min-height: 100vh; /* Altura mínima de la ventana */
+}
+
+.container {
+    width: 21cm; /* Ancho de una página carta */
+    height: 29.7cm; /* Altura de una página carta */
+    background-color: white; /* Fondo blanco */
+    box-shadow: 0 0 10px black; /* Sombra para dar efecto de papel */
+    display: flex; /* Usar Flexbox para organizar el contenido */
+    flex-direction: column; /* Organizar los elementos en columna */
+    align-items: center; /* Centrar los elementos horizontalmente */
+    padding: 0; /* Eliminar padding exterior */
+    box-sizing: border-box; /* Incluir padding y bordes en el tamaño total */
+    margin-top: 1cm; /* Espacio superior de 1 cm */
+}
+
+/* Header Section */
+/* Encabezado con título e imagen destacada */
+.header-section {
+    text-align: center; /* Centrar el texto */
+    background-color: black; /* Fondo negro */
+    color: white; /* Texto blanco */
+    padding: 20px; /* Reducir el espacio interno */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+    border-radius: 10px 10px 0 0; /* Bordes redondeados en la parte superior */
+    margin-top: -1cm; /* Subir la sección del encabezado */
+}
+
+.header-section img {
+    width: 100%; /* Imagen ocupa todo el ancho */
+    height: auto; /* Mantener proporción de la imagen */
+    border-radius: 10px 10px 0 0; /* Bordes redondeados en la parte superior */
+}
+
+/* Description Section */
+/* Sección de descripción con texto e imagen */
+.desc-section {
+    display: flex; /* Usar Flexbox para organizar texto e imagen */
+    justify-content: space-between; /* Separar texto e imagen */
+    padding: 20px; /* Espaciado interno */
+    background-color: #333; /* Fondo gris oscuro */
+    color: white; /* Texto blanco */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+}
+
+.desc-text {
+    flex: 1; /* Ocupa el mismo espacio que la imagen */
+    padding-right: 20px; /* Espaciado a la derecha */
+}
+
+.desc-img {
+    flex: 1; /* Ocupa el mismo espacio que el texto */
+    text-align: center; /* Centrar la imagen */
+}
+
+.desc-img img {
+    width: 100%; /* Imagen ocupa todo el ancho disponible */
+    height: auto; /* Mantener proporción de la imagen */
+}
+
+.desc-text p {
+    text-align: justify; /* Justificar el texto */
+}
+
+/* Characteristics Section */
+/* Sección de características con íconos */
+.caract {
+    text-align: center; /* Centrar el contenido */
+    padding: 20px; /* Espaciado interno */
+    background-color: #241a10; /* Fondo café oscuro */
+    color: white; /* Texto blanco */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+}
+.caract-sect:hover{
+    color: goldenrod;
+}
+
+.caract h2 {
+    margin-bottom: 20px; /* Espaciado inferior */
+}
+
+.caract-sect {
+    display: inline-block; /* Mostrar íconos en línea */
+    margin: 0 20px; /* Espaciado entre íconos */
+    text-align: center; /* Centrar ícono y texto */
+}
+
+.caract-sect i {
+    font-size: 2em; /* Tamaño del ícono */
+    margin-bottom: 10px; /* Espaciado inferior del ícono */
+    color: #f0efee; /* Color blanco para los íconos */
+}
+
+/* Gallery Section */
+/* Sección de galería con 3 imágenes */
+.gallery-section {
+    display: flex; /* Usar Flexbox para organizar las imágenes */
+    justify-content: space-between; /* Separar las imágenes */
+    padding: 20px; /* Espaciado interno */
+    background-color: black; /* Fondo negro */
+    color: white; /* Texto blanco */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+}
+
+.gallery-item {
+    flex: 1; /* Cada imagen ocupa el mismo espacio */
+    margin: 0 10px; /* Espaciado entre imágenes */
+    text-align: center; /* Centrar el contenido */
+    background-color: black; /* Fondo negro */
+    padding: 10px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+.gallery-item img {
+    width: 200px; /* Ancho fijo para las imágenes */
+    height: 200px; /* Altura fija para las imágenes */
+    border-radius: 10px; /* Bordes redondeados */
+    border: none; /* Sin borde */
+}
+
+.gallery-item h3 {
+    margin-top: 10px; /* Espaciado superior */
+    font-size: 16px; /* Tamaño del texto */
+    color: white; /* Texto blanco */
+    font-weight: bold; /* Texto en negrita */
+}
+
+.gallery-item p {
+    margin-top: 5px; /* Espaciado superior */
+    font-size: 14px; /* Tamaño del texto */
+    color: white; /* Texto blanco */
+    text-align: justify; /* Justificar el texto */
+}
+
+/* Footer Section */
+/* Pie de página con texto legal o enlace */
+.footer {
+    text-align: center; /* Centrar el texto */
+    padding: 20px; /* Espaciado interno */
+    background-color: #312d26; /* Fondo café oscuro */
+    color: white; /* Texto blanco */
+    width: 100%; /* Ocupa todo el ancho del contenedor */
+    border-radius: 0 0 10px 10px; /* Bordes redondeados en la parte inferior */
+}
