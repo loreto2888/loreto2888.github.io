@@ -1,0 +1,103 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f5f5dc; /* Fondo beige claro */
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  background: linear-gradient(to bottom, #f5f5dc 50%, #ffffff 50%); /* Dos colores */
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+nav h2 {
+  margin: 0;
+}
+
+nav a {
+  color: #333;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header .foto-perfil {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%; /* Foto cuadrada */
+  margin-bottom: 10px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  text-align: center;
+  color: #444;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+section p, ul li {
+  text-align: justify; /* Justificar textos */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+ul li::before {
+  content: "•"; /* Icono para listas */
+  color: #333;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 2px solid #333;
+}
+
+footer a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
