@@ -6,7 +6,7 @@ Este es mi portafolio personal de desarrollo web realizado durante el curso de D
 
 ## Ver CV
 
-🔗 [Currículum Vitae - index.html](https://loreto2888.github.io/)
+🔗 [Ver CV en línea](https://loreto2888.github.io/)
 
 ---
 
