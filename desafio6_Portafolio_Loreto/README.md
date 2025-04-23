@@ -12,7 +12,7 @@ Este es mi portafolio personal de desarrollo web realizado durante el curso de D
 
 ## Ver portafolio visual
 
-🔗 [Portafolio con imágenes - index_portafolio.html]([https://github.com/loreto2888/loreto2888.github.io/blob/main/desafio6_Portafolio_Loreto/index_portafolio.html](http://127.0.0.1:5500/index_portafolio.html))
+🔗 [Portafolio con imágenes - index_portafolio.html]([[https://github.com/loreto2888/loreto2888.github.io/blob/main/desafio6_Portafolio_Loreto/index_portafolio.html](http://127.0.0.1:5500/index_portafolio.html)](http://127.0.0.1:5500/index_portafolio.html))
 
 ---
 
