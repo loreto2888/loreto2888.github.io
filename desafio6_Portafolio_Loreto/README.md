@@ -8,7 +8,7 @@ El proyecto está organizado de la siguiente manera:
 
 README.md:
 
-mi-portafolio-cv/ │ ├── index.html # Archivo principal HTML ├── portafolio/ │ ├── css/ │ │ └── style.css # Archivo de estilos CSS │ └── img/ # Carpeta de imágenes │ ├── Imagen1.png │ └── otras imágenes... └── README.md # Archivo de documentación
+mi-portafolio-cv/ │ ├── index.html # Archivo principal HTML ├── index_portafolio.html # Archivo portafolioLoreto HTML├── portafolio/ │ ├── css/ │ │ └── style.css # Archivo de estilos CSS │ └── img/ # Carpeta de imágenes │ ├── Imagen1.png │ └── otras imágenes... └── README.md # Archivo de documentación
 
 
 ## Contenido
