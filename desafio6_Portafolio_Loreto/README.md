@@ -1,42 +1,55 @@
-# Portafolio de Loreto Barrientos
+# Portafolio de Desafíos - Loreto Barrientos
 
-Este es un portafolio básico creado como parte del Desafío 6 de Desafío Latam. Contiene información sobre la educación, experiencia y proyectos realizados por Loreto Barrientos.
+¡Bienvenid@ a mi portafolio de desarrollo web!  
+Este repositorio contiene los desafíos realizados durante el curso de Desafío Latam, utilizando HTML, CSS, Bootstrap, Git, GitHub y GitHub Pages.
 
-## Estructura del Proyecto
+---
 
-El proyecto está organizado de la siguiente manera:
+## Sobre mí
 
-README.md:
+Soy estudiante en formación continua en desarrollo web, con conocimientos en diseño responsivo, trabajo colaborativo y despliegue web.  
+Este espacio refleja mi avance, dedicación y habilidades adquiridas durante el curso.
 
-mi-portafolio-cv/ │ ├── index.html # Archivo principal HTML ├── index_portafolio.html # Archivo portafolioLoreto HTML├── portafolio/ │ ├── css/ │ │ └── style.css # Archivo de estilos CSS │ └── img/ # Carpeta de imágenes │ ├── Imagen1.png │ └── otras imágenes... └── README.md # Archivo de documentación
+---
 
+## 📄 Ver mi CV
 
-## Contenido
+🔗 [Ir al CV (index.html)](https://loreto2888.github.io/)
 
-### Secciones del Portafolio
+---
 
-1. **Resumen**: Breve descripción profesional.
-2. **Educación**: Información sobre la formación académica.
-3. **Experiencia Laboral**: Detalles de los roles desempeñados y logros.
-4. **Habilidades Clave**: Competencias técnicas y profesionales.
-5. **Certificaciones**: Certificaciones relevantes obtenidas.
-6. **Cursos**: Cursos destacados realizados.
+## 🎯 Desafíos realizados
 
-### Tecnologías Utilizadas
+| Nº  | Desafío                                   | Descripción breve                                                | Enlace |
+|-----|--------------------------------------------|-------------------------------------------------------------------|--------|
+| 1️⃣  | Curriculum Vitae                          | CV estructurado con HTML5 y estilizado con CSS.                  | [Ver](https://loreto2888.github.io/desafio1_mi_curriculum_vitae_html/) |
+| 2️⃣  | Landing Page                              | Sitio promocional estático con diseño visual atractivo.          | [Ver](https://loreto2888.github.io/desafio2_construyendo_un_landing_page/) |
+| 3️⃣  | Iguana Page                               | Maquetación responsiva con imágenes, texto y estructura clara.   | [Ver](https://loreto2888.github.io/desafio3_iguana_page/) |
+| 4️⃣  | Cuppon                                    | Diseño con Bootstrap, cards, formularios y grillas.              | [Ver](https://loreto2888.github.io/desafio4_cuppon/) |
+| 5️⃣  | GitHub Colaborativo                       | Fork, commits y colaboración en GitHub.                          | [Ver](https://loreto2888.github.io/desafio5_github/fdsw-github/) |
 
-- **HTML5**: Para la estructura del contenido.
-- **CSS3**: Para el diseño y estilos visuales.
+---
 
-## Cómo Usar
+## Ver mi portafolio visual
 
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
+🔗 [Ver portafolio con imágenes de desafíos](https://loreto2888.github.io/index_portafolio.html)
 
+---
 
-### Cambios realizados:
-1. **Estructura del proyecto**: Se detalla la organización de carpetas y archivos.
-2. **Contenido del portafolio**: Se enumeran las secciones principales del portafolio.
-3. **Cómo usar**: Se incluye un comando para clonar el repositorio.
-4. **Capturas de pantalla**: Se agrega una referencia a una imagen de ejemplo.
-5. **Información del autor**: Se incluye un resumen profesional y un enlace a LinkedIn.
+## Despliegue del sitio
+
+Todo el contenido está desplegado mediante **GitHub Pages**:  
+[`https://loreto2888.github.io/`](https://loreto2888.github.io/)
+
+---
+
+## Trabajo colaborativo
+
+- Forks realizados a repositorios de compañeros ✅  
+- Commits con aportes a proyectos ajenos ✅  
+- Se trabajó en equipo siguiendo buenas prácticas de control de versiones.
+
+---
+
+¡Gracias por visitar mi trabajo!  
+Si tienes feedback o ideas de mejora, ¡me encantaría escucharlas! 😊
