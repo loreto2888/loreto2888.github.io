@@ -8,19 +8,19 @@ Estructura de las carpetas en loreto2888.github.io
 
 ---
 
-## Ver CV
+## Ver CV Desafío 6
 
 🔗 [Ver CV en línea](https://loreto2888.github.io/)
 
 ---
 
-## Ver portafolio visual
+## Ver portafolio visual Desafío 6
 
 🔗 [Portafolio con imágenes - index_portafolio.html](https://loreto2888.github.io/index_portafolio.html)
 
 ---
 
-## Desafíos realizados
+## Desafíos realizados en módulo Desarrollo Web
 
 | Nº  | Desafío                           | Descripción                             | Enlace                                                                 |
 |-----|-----------------------------------|-----------------------------------------|------------------------------------------------------------------------|
