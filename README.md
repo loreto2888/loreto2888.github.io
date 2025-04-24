@@ -45,7 +45,7 @@ Estructura de las carpetas en loreto2888.github.io
 
 🔗 [https://loreto2888.github.io/](https://loreto2888.github.io/)
 
-## Trabajo Colaborativo
+## Trabajo Colaborativo Desafío 6 , Portafolio Final
 - se realizó un cambio al GitHub de Ricardo Cortesia en la línea 43, luego del texto eficiente. adjunto evidencia
 - ![image](https://github.com/user-attachments/assets/cfdcd3bd-7cad-40fe-b188-4eab4ce2bbe3)
 
