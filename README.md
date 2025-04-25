@@ -8,7 +8,7 @@ Estructura de las carpetas en loreto2888.github.io
 
 ---
 
-## Ver CV Desafío 6
+## Ver CV Desafío 6 ( se une al portafolio con un link al final del CV)
 
 🔗 [Ver CV en línea](https://loreto2888.github.io/)
 
