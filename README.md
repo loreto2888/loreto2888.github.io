@@ -2,11 +2,7 @@
 
 Este es mi portafolio personal de desarrollo web realizado durante el curso de Desafío Latam. Aquí encontrarás mis proyectos organizados, desde la creación de un CV profesional hasta el trabajo colaborativo en GitHub.
 
-
-Estructura de las carpetas en loreto2888.github.io
-![image](https://github.com/user-attachments/assets/6dbaa621-65c2-47d0-b74a-b7367a07e35e)
-
----
+--
 
 ## Ver CV Desafío 6 ( se une al portafolio con un link al final del CV)
 
